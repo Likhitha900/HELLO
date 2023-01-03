@@ -1,0 +1,5 @@
+Amazon Web Services (AWS) is one of the biggest on-demand cloud computing platforms.
+Amazon offers more than 90 services spanning a wide range including computing, storage, networking, database, analytics, application services, deployment, management, mobile, developer tools, and tools for the Internet of Things, two of the most popular include Amazon Elastic Compute Cloud (EC2), Amazon Simple Storage Service (S3) and Amazon Relational Database Services (RDS). 
+Others include: Amazon Elastic MapReduce (EMR), AWS Config, Amazon Cloudwatch (monitoring) and AWS Cloudtrail (Auditing).
+
+Amazon cloud environment can be managed from AWS page or using a AWS command line tool.
